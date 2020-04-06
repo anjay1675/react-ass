@@ -12,7 +12,7 @@ const Rent=()=>{
                 <div class="bar3"><i class="far fa-envelope"></i><Link to='/cont'><h6 class="enq" >Contact Us</h6></Link></div>
                 </div>
             </div>
-            <div className="car" >
+            <div className="car">
             <Navbar collapseOnSelect expand="sm">
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">    
